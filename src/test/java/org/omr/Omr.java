@@ -9,6 +9,8 @@ public static void main(String[] args) {
 
 		System.out.println("karthi");
 		System.out.println("pavithara");
+		System.out.println("charan");
+		System.out.println("ram");
 	}
 }
 }
