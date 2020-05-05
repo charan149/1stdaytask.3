@@ -6,6 +6,9 @@ public static void main(String[] args) {
 	while(a<10) {
 		System.out.println(a);
 		System.out.println("guru");
+
+		System.out.println("karthi");
+		System.out.println("pavithara");
 	}
 }
 }
